@@ -1,0 +1,7 @@
+- What is the price of the last razor you purchased (dollars)
+- How long do you typically use a razor before replacing it? (in months) 
+- How satisfied are you with your current shaving experience? (1: Not satisfied, 5: Very satisfied)
+
+I have 4 age groups: 18-30, 31-45, 46-60, and 60+
+
+I have 2 groups of people: people will buy my razor and people who will not
